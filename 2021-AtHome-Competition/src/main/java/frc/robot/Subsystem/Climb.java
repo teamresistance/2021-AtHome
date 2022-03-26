@@ -6,7 +6,7 @@ History
 3/1/2020 - Anthony - Original release
 3/11 - JCH - hdw_io update
 */
-package frc.robot.Subsystem;
+package frc.robot.subsystem;
 
 import edu.wpi.first.wpilibj.PowerDistribution;
 import edu.wpi.first.wpilibj.motorcontrol.Victor;

@@ -7,7 +7,7 @@ History:
 7/11    - JCH - Chgd to PIDX from TSteer and some cleanup
 */
 
-package frc.robot.Subsystem.drive.trajFunk;
+package frc.robot.subsystem.drive.trajFunk;
 
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import frc.io.hdw_io.IO;

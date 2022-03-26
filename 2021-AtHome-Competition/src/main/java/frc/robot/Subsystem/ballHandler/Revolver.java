@@ -4,7 +4,7 @@ until requested to deliever them to the shooter.
 3/1/2020 - Anthony - Original release
 3/11 - JCH - updated hdw_io and cleanup
 */
-package frc.robot.Subsystem.ballHandler;
+package frc.robot.subsystem.ballHandler;
 
 import edu.wpi.first.wpilibj.motorcontrol.Victor;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;

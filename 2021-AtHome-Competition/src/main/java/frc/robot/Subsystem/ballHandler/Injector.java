@@ -8,7 +8,7 @@ History:
 3/1/2020 - Anthony - Initial release
 3/11    - JCH - Chg hdw_io and cleanup
 */
-package frc.robot.Subsystem.ballHandler;
+package frc.robot.subsystem.ballHandler;
 
 import com.ctre.phoenix.motorcontrol.ControlMode;
 import com.ctre.phoenix.motorcontrol.IMotorController;

@@ -1,4 +1,4 @@
-package frc.robot.Subsystem.ballHandler;
+package frc.robot.subsystem.ballHandler;
 
 import edu.wpi.first.wpilibj.motorcontrol.Victor;
 import edu.wpi.first.wpilibj.DigitalInput;
