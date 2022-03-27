@@ -1,6 +1,6 @@
-package frc.robot.subsystem2.drive.trajFunk;
+package frc.robot.subsystem.drive.trajFunk;
 
-import frc.robot.subsystem2.ballHandler.Snorfler;
+import frc.robot.subsystem.ballHandler.Snorfler;
 
 /**
  * This TrajFunction controls the Snorfler.

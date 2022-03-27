@@ -1,8 +1,8 @@
-package frc.robot.subsystem2.drive;
+package frc.robot.subsystem.drive;
 
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import frc.io.hdw_io.IO;
-import frc.robot.subsystem2.drive.trajFunk.*;
+import frc.robot.subsystem.drive.trajFunk.*;
 
 public class Drv_Auto extends Drive {
 

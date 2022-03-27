@@ -1,4 +1,4 @@
-package frc.robot.subsystem2.ballHandler;
+package frc.robot.subsystem.ballHandler;
 
 import com.ctre.phoenix.motorcontrol.ControlMode;
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonSRX;

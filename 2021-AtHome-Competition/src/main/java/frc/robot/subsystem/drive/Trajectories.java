@@ -1,9 +1,9 @@
-package frc.robot.subsystem2.drive;
+package frc.robot.subsystem.drive;
 
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import frc.io.hdw_io.vision.RPI;
-import frc.robot.subsystem2.drive.trajFunk.*;
+import frc.robot.subsystem.drive.trajFunk.*;
 
 public class Trajectories {
     private static double dfltPwr = 0.9;
