@@ -244,7 +244,7 @@ public class JS_IO {
         btnScaledDrive.setButton(gamePad, 4); // Y
         // btnHoldZero.setButton(gamePad, 5);  // LB
         // btnHold180.setButton(gamePad, 6);   // RB
-        // btnInvOrientation.setButton(gamePad, 10); // r-stick push
+        btnInvOrientation.setButton(gamePad, 10); // r-stick push
 
         // snorfler buttons
         btnReverseSnorfler.setButton(gamePad, 9); // l-stick push
